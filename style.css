@@ -1,0 +1,180 @@
+#first{
+    height: 800px;
+    background: url(homepage\ duke.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+#column{
+    display:inline-block;
+    width: 10%;
+    margin-top: 20px;
+    color: white;
+    font-weight: bold;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.first-text h3{
+    color: white;
+    text-align: center;
+    margin-top: 190px;
+
+}
+.first-text h1{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+
+}
+.first-text button{
+    background-color:#f60 ;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 680px;
+    font-weight: bold;
+    border-color: #f60;
+    cursor: pointer;
+
+}
+.first-text button:hover{
+    background: transparent;
+    color:#f60 ;
+   
+   
+   
+}
+.first-h{
+    text-align: center;
+    font-weight:lighter;
+    font-size: 70px;
+    
+    
+}
+.second-h{
+    
+    color: #f60;
+    text-align: center;
+    font-weight:lighter;
+    font-size: 70px;
+    font-family:blender-pro;
+}
+.second-buttons{
+   margin-left: 450px;
+}
+.first-button{
+    width: 200px;
+    height: 80px;
+    font-weight: bold;
+    background-color: white;
+
+}
+.second-button{
+    width: 200px;
+    height: 80px;
+    font-weight: bold;
+    margin-left: 140px;
+    background-color: white;
+
+}
+.first-button:hover{
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+.second-button:hover{
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+#third-section{
+    width: 100%;
+    height: 600px;
+    margin-top: 30px;
+}
+#forth-section{
+    width: 100%;
+    height: 500px;
+}
+#fs-column{
+    float: left;
+    width: 30%;
+    padding: 23px;
+    overflow: hidden;
+
+    
+    
+}
+.fs-row{
+   
+    
+   
+    margin-top: 40px;
+   margin-left: 20px;
+}
+.image{
+    width: 500px;
+    height: 400px;
+    
+}
+.fs-column h3{
+    font-size: 30px;
+    
+    font-weight: bold;
+}
+.first-logo img{
+    margin-left: 1300px;
+    width: 150px;
+    height: 150px;
+    
+}
+#fifth-section{
+    width: 100%;
+    height: 550px;
+    background-color: black;
+    margin-top: 30px;
+}
+#fifth-column{
+    display: inline-block;
+    width: 20%;
+    padding: 10px;
+    margin-left: 20PX;
+   
+}
+#fifth-column h2{
+color: white;
+}
+#fifth-column p{
+    color: white;
+}
+hr{
+  
+}
+#fifth-column p:hover{
+    color: #f60;
+    cursor: pointer;
+}
+#fifth-section p{
+    color: white;
+    margin-left: 20px;
+
+}
+.final-section{
+    width: 100%;
+    align-items: center;
+}
+.final-section-first{
+    width: 60%;
+    float: left;
+}
+.final-section-second{
+    width: 40%;
+    float: left;
+}
+.final-section-second h3{
+    color: #f60;
+    margin-left: 400px;
+    font-size: 20px;
+}
